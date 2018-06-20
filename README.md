@@ -3,7 +3,7 @@ Industrial Wireless IoT Acceleration Impact Detection Sensor With 2 Mile Range c
 
 http://store.ncd.io/product/iot-wireless-impact-detection-sensor/
 
-this Labview software will work with ncd.io wireless Acceleration Impact Detection sesnor only
+this Labview software will work with ncd.io wireless Acceleration Impact Detection sensor only
 
 To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
 
@@ -13,6 +13,6 @@ To use this UI, you will need to install following drivers Install run time engi
 
 Install Labview Run time serial driver http://www.ni.com/download/ni-serial-17.0/6613/en/
 
-Getting strated guide for this product can be found over here https://ncd.io/long-range-iot-wireless-impact-detection-sensor-getting-started/
+Getting started guide for this product can be found over here https://ncd.io/long-range-iot-wireless-impact-detection-sensor-getting-started/
 
 complete product manual for this product can be found over here https://ncd.io/long-range-iot-wireless-impact-detection-sensor-product-manual/
